@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgemimoso&label=Profile%20views&color=0e75b6&style=flat" alt="jorgemimoso" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgemimoso" alt="jorgemimoso" /></a> </p>
-
 - 🔭 I’m currently working on **a Reinforcement Learning ai agent**
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
