@@ -35,3 +35,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgemimoso&show_icons=true&locale=en&layout=compact" alt="jorgemimoso" /></p>
 
+<i>Want a cool readme file like this? 
+Check out the open source project from it's author:
+https://rahuldkjain.github.io</i>
