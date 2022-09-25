@@ -21,6 +21,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jemimoso/](https://www.linkedin.com/in/jemimoso/)
 
+- 🎖️ Check my professional certifications [https://www.credly.com/users/jorge-espiguinha-mimoso/badges](https://www.credly.com/users/jorge-espiguinha-mimoso/badges)
+
 - ⚡ Fun fact **https://linktr.ee/decacoisa**
 
 <h3 align="left">Connect with me:</h3>
