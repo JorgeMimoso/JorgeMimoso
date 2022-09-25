@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgemimoso&label=Profile%20views&color=0e75b6&style=flat" alt="jorgemimoso" /> </p>
 
-- 🔭 I’m currently working on **a Reinforcement Learning ai agent**
+- 🔭 I’m currently working on **a Reinforcement Learning AI agent**
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
