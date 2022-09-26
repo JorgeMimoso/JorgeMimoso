@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning/Data Science projects**
 
-- 🤝 I’m looking for help with **Spreading science and technology knowledge and education**
+- 🤝 I’m looking to help with **Spreading science and technology knowledge and education**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JorgeMimoso?tab=repositories](https://github.com/JorgeMimoso?tab=repositories)
 
