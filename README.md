@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **jemimoso@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jemimoso/](https://www.linkedin.com/in/jemimoso/)
+- 📄 Know about my professional and academic background [https://www.linkedin.com/in/jemimoso/](https://www.linkedin.com/in/jemimoso/)
 
-- 🎖️ Check my professional certifications [https://www.credly.com/users/jorge-espiguinha-mimoso/badges](https://www.credly.com/users/jorge-espiguinha-mimoso/badges)
+- 🎖️ Check my professional certifications [https://www.linkedin.com/in/jemimoso/details/certifications/](https://www.linkedin.com/in/jemimoso/details/certifications/)
 
 - ⚡ Fun fact **https://linktr.ee/decacoisa**
 
