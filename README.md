@@ -23,7 +23,7 @@
 
 - 🎖️ Check my professional certifications [https://www.linkedin.com/in/jemimoso/details/certifications/](https://www.linkedin.com/in/jemimoso/details/certifications/)
 
-- ⚡ Fun fact **https://linktr.ee/decacoisa**
+- ⚡ Fun fact **[https://linktr.ee/decacoisa](https://linktr.ee/mimassciengart)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
